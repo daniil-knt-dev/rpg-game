@@ -1,8 +1,11 @@
 {
+    "hp": 18.0,
     "money": 0,
     "hero_leveling": {
-        "множитель урона": 1,
-        "максимальное здоровье": 20
+        "damage multiplier": 1,
+        "max hp": 20
     },
-    "inventory": []
+    "inventory": [
+        "меч"
+    ]
 }
